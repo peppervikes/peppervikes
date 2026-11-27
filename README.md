@@ -1,6 +1,10 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=180&section=header&text=Vikalp%20Agrawal&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20Development&descAlignY=58&descSize=15" width="100%" alt="Vikalp Agrawal header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A,100:2563EB&amp;height=180&amp;section=header&amp;text=Vikalp%20Agrawal&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38"
+    alt="Vikalp Agrawal header"
+    width="100%"
+  />
 </p>
 
 <!-- Typing animation -->
